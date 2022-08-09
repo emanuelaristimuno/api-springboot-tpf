@@ -35,7 +35,7 @@ public class PersonController {
         return personService.getAllPersons();
     }
 
-    @PostMapping()
+    @PostMapping("/save")
     public Person savePerson(@RequestBody Person person) {
         return personService.savePerson(person);
     }

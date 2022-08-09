@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.myFirstApp</groupId>
-	<artifactId>SpringBoot</artifactId>
+	<artifactId>SpringBoot-ManyToOne</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SpringBoot</name>
+	<name>SpringBoot-ManyToOne</name>
 	<description>Primera app de prueba Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
